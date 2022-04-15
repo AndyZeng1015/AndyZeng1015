@@ -1,8 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=000000&center=true&lines=I'm+just+a+rookie+learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=000000&center=true&width=900&lines=I'm+just+a+rookie+learning)]
 
 ### Hi there 👋
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
