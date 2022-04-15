@@ -1,4 +1,6 @@
+<!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=000000&center=true&width=900&lines=I'm+just+a+rookie+learning)](https://github.com/AndyZeng1015)
+-->
 
 ### Hi there 👋
 
