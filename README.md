@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on Android Develop
+- 🔭 I’m currently working on Android development
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
